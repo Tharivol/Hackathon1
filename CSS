@@ -1,0 +1,25 @@
+body {
+    background-image: url("http://wallpapercave.com/wp/c95hbfI.jpg");
+    background-size: 100%;
+}
+.jumbotron {
+    text-align: center;
+    opacity: .4;
+    font-size: 5em;
+    
+}
+.well {
+    text-align: center;
+    opacity: 0.7;
+}
+.center {
+    text-align: left;
+    opacity: .8;
+    
+}
+.inputBoxes {
+    display: inline-block;
+}
+.jumbotronText {
+    background-color: rgba(255,0,0,1.0);
+}
